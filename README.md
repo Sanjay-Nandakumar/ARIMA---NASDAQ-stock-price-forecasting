@@ -11,6 +11,3 @@ ARIMA algorithm implemented in python for forecasting the stock prices of the fo
 
 5. EBAY
 
-Complete tutorial is available on the following link-
-
-https://medium.com/@sanjayjsw05/time-series-analysis-complete-tutorial-for-beginners-part-1-58523000a0a3
